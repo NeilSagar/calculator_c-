@@ -1,0 +1,14 @@
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.AssemblyInfoInputs.cache
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.AssemblyInfo.cs
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.csproj.CoreCompileInputs.cache
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/bin/Debug/net8.0/CalculatorApplication
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/bin/Debug/net8.0/CalculatorApplication.deps.json
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/bin/Debug/net8.0/CalculatorApplication.runtimeconfig.json
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/bin/Debug/net8.0/CalculatorApplication.dll
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/bin/Debug/net8.0/CalculatorApplication.pdb
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.dll
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/refint/CalculatorApplication.dll
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.pdb
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/CalculatorApplication.genruntimeconfig.cache
+/Users/neilsagarsahu/Desktop/Skills/C#/CalculatorApplication/obj/Debug/net8.0/ref/CalculatorApplication.dll
